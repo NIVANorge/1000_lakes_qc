@@ -1,0 +1,25 @@
+am_parameter;labware_parameter;factor
+Al/IL;Aluminium, ikke labil;1
+Al/L;Aluminium;1
+Al/R;Aluminium, reaktivt;1
+Alk;Alkalitet;1
+As;Arsen;1
+Ca;Kalsium;1
+Cl;Klorid;1
+Cr;Krom;1
+Cu;Kobber;1000
+F;Fluorid;1
+K;Kalium;1
+Konduktivitet;Konduktivitet;1
+Mg;Magnesium;1
+NH4-N;Ammonium;1
+NO3-N;Nitrat;1
+Na;Natrium;1
+Ni;Nikkel;1
+Pb;Bly;1
+SO4;Sulfat;1
+TOC;Total organisk karbon (TOC);1
+TOTN;Total nitrogen;1
+TOTP;Total fosfor;1
+Zn;Sink;1
+pH;pH;1

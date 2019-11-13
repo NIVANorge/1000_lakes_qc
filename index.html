@@ -1,15 +1,17 @@
 <!DOCTYPE html>
-<head>
-  <meta charset="utf-8">
-  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-	<script src="https://cdn.jsdelivr.net/npm/vega-lite@4.0.0-beta.2"></script>
-	<script src="https://cdn.jsdelivr.net/npm/vega-embed@5"></script>
-</head>
 
-<body>  
-  <div id="vis"></div>
-  
-  <script>
+<head>
+<meta charset="utf-8"/>
+<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@4.0.0-beta.2"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@5"></script>
+</head>
+<body>
+<h1>Data visualisation for the 2019 "1000 Lakes Survey"</h1>
+<h3>Labware results were last updated 13.11.2019</h3>
+<p>See the notebook <a href="https://nbviewer.jupyter.org/github/NIVANorge/1000_lakes_qc/blob/master/qc_1000_lakes.ipynb" target="_blank">here</a> for full details.</p>
+<div id="vis"></div>
+<script>
     const spec = "qc_1000_lakes.json";
   	vegaEmbed("#vis", spec)
     	// result.view provides access to the Vega View API
