@@ -2,13 +2,13 @@
 
 Comparing the 2019 results currently being analysed by NIVALAB with data from the previous (1995) survey.
 
-## 1. Data exploration page
+## The main data exploration page is [here](https://nivanorge.github.io/1000_lakes_qc/)
 
-The main data exploration page is [here](https://nivanorge.github.io/1000_lakes_qc/)
+______
 
-## 2. Specific QC tasks
+## Specific QC tasks
 
-### 2.1. Investigating differences in Ca between 1995 and 2019
+### 1. Investigating differences in Ca between 1995 and 2019
 
 The following links show plots of the data split by Ca level
 
