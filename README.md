@@ -16,4 +16,4 @@ The following links show plots of the data split by Ca level
  
  * Differences in **measured and ion-balance-calculated conductivity** between 1995 and 2019 are [here](https://NIVANorge.github.io/1000_lakes_qc/pages/cond_difference_pct.html)
  
- * **Conductivity corrected by EH and ESO4** are [here](https://NIVANorge.github.io/1000_lakes_qc/pages/corrected_cond.html)  
+ * Conductivity **corrected by EH and ESO4** is [here](https://NIVANorge.github.io/1000_lakes_qc/pages/corrected_cond.html)  
