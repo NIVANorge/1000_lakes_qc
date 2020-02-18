@@ -1,24 +1,24 @@
 parameter,status,sample_count
-Alkalitet,Authorised,975
+Alkalitet,Authorised,986
 Alkalitet,Canceled,2
-Alkalitet,Entered,19
-Alkalitet,Modified,6
-Alkalitet,Rejected,121
+Alkalitet,Entered,11
+Alkalitet,Modified,3
+Alkalitet,Rejected,122
 Aluminium,Authorised,337
 Aluminium,Canceled,1
 Aluminium,Entered,663
-"Aluminium, ikke labil",Authorised,988
+"Aluminium, ikke labil",Authorised,994
 "Aluminium, ikke labil",Canceled,2
-"Aluminium, ikke labil",Entered,11
+"Aluminium, ikke labil",Entered,5
 "Aluminium, ikke labil",Not entered,1
-"Aluminium, reaktivt",Authorised,988
+"Aluminium, reaktivt",Authorised,994
 "Aluminium, reaktivt",Canceled,2
-"Aluminium, reaktivt",Entered,11
+"Aluminium, reaktivt",Entered,5
 "Aluminium, reaktivt",Not entered,1
-Ammonium,Authorised,975
+Ammonium,Authorised,987
 Ammonium,Canceled,2
-Ammonium,Entered,28
-Ammonium,Rejected,57
+Ammonium,Entered,15
+Ammonium,Rejected,67
 Antimon,Canceled,3
 Antimon,Not entered,6
 Arsen,Authorised,337
@@ -31,18 +31,18 @@ Bly,Canceled,1
 Bly,Entered,663
 Bor,Canceled,3
 Bor,Not entered,6
-Fargetall,Authorised,975
+Fargetall,Authorised,986
 Fargetall,Canceled,48
-Fargetall,Entered,21
-Fargetall,Modified,4
+Fargetall,Entered,12
+Fargetall,Modified,2
 Fargetall,Rejected,121
-Fluorid,Authorised,975
+Fluorid,Authorised,987
 Fluorid,Canceled,1
-Fluorid,Entered,28
-Fluorid,Rejected,57
-Fosfat,Authorised,972
+Fluorid,Entered,15
+Fluorid,Rejected,67
+Fosfat,Authorised,983
 Fosfat,Canceled,1
-Fosfat,Entered,25
+Fosfat,Entered,14
 Fosfat,Rejected,5
 Jern,Authorised,337
 Jern,Canceled,1
@@ -50,36 +50,36 @@ Jern,Entered,663
 Kadmium,Authorised,337
 Kadmium,Canceled,1
 Kadmium,Entered,663
-Kalium,Authorised,975
+Kalium,Authorised,987
 Kalium,Canceled,5
-Kalium,Entered,28
+Kalium,Entered,15
 Kalium,Not entered,6
-Kalium,Rejected,57
-Kalsium,Authorised,975
+Kalium,Rejected,67
+Kalsium,Authorised,987
 Kalsium,Canceled,3
-Kalsium,Entered,28
-Kalsium,Rejected,57
-Klorid,Authorised,975
+Kalsium,Entered,15
+Kalsium,Rejected,67
+Klorid,Authorised,987
 Klorid,Canceled,2
-Klorid,Entered,28
-Klorid,Rejected,57
+Klorid,Entered,15
+Klorid,Rejected,67
 Kobber,Authorised,337
 Kobber,Canceled,1
 Kobber,Entered,663
 Kobolt,Authorised,337
 Kobolt,Canceled,1
 Kobolt,Entered,663
-Kond_Temp,Authorised,975
+Kond_Temp,Authorised,986
 Kond_Temp,Canceled,3
-Kond_Temp,Entered,21
-Kond_Temp,Modified,4
+Kond_Temp,Entered,12
+Kond_Temp,Modified,2
 Kond_Temp,Not entered,1
-Kond_Temp,Rejected,105
-Konduktivitet,Authorised,975
+Kond_Temp,Rejected,106
+Konduktivitet,Authorised,986
 Konduktivitet,Canceled,3
-Konduktivitet,Entered,21
-Konduktivitet,Modified,4
-Konduktivitet,Rejected,105
+Konduktivitet,Entered,12
+Konduktivitet,Modified,2
+Konduktivitet,Rejected,106
 Krom,Authorised,337
 Krom,Canceled,1
 Krom,Entered,663
@@ -87,69 +87,70 @@ Kvikksølv,Canceled,1
 Kvikksølv,Not entered,999
 Litium,Canceled,3
 Litium,Not entered,6
-Løst organisk karbon (DOC),Authorised,975
+Løst organisk karbon (DOC),Authorised,986
 Løst organisk karbon (DOC),Canceled,3
-Løst organisk karbon (DOC),Entered,25
+Løst organisk karbon (DOC),Entered,14
 Løst organisk karbon (DOC),Rejected,2
-Magnesium,Authorised,975
+Magnesium,Authorised,987
 Magnesium,Canceled,2
-Magnesium,Entered,28
-Magnesium,Rejected,57
+Magnesium,Entered,15
+Magnesium,Rejected,67
 Mangan,Authorised,337
 Mangan,Canceled,1
 Mangan,Entered,663
 Molybden,Canceled,3
 Molybden,Not entered,6
-Natrium,Authorised,975
+Natrium,Authorised,987
 Natrium,Canceled,2
-Natrium,Entered,28
-Natrium,Rejected,57
+Natrium,Entered,15
+Natrium,Rejected,67
 Nikkel,Authorised,337
 Nikkel,Canceled,1
 Nikkel,Entered,663
 Niob,Canceled,3
 Niob,Not entered,6
-Nitritt + nitrat,Authorised,975
+Nitritt + nitrat,Authorised,986
 Nitritt + nitrat,Canceled,1
-Nitritt + nitrat,Entered,25
+Nitritt + nitrat,Entered,14
 Nitritt + nitrat,Not entered,1
 Nitritt + nitrat,Rejected,21
-Silikat,Authorised,975
+Silikat,Authorised,986
 Silikat,Canceled,1
-Silikat,Entered,25
+Silikat,Entered,14
 Silikat,Rejected,13
 Sink,Authorised,337
 Sink,Canceled,1
 Sink,Entered,663
 Strontium,Canceled,3
 Strontium,Not entered,6
-Sulfat,Authorised,975
+Sulfat,Authorised,987
 Sulfat,Canceled,2
-Sulfat,Entered,28
-Sulfat,Rejected,57
+Sulfat,Entered,15
+Sulfat,Rejected,67
 Temperatur,Authorised,1
 Total fosfor,Authorised,1000
 Total fosfor,Canceled,2
-Total nitrogen,Authorised,975
-Total nitrogen,Canceled,7
-Total nitrogen,Entered,25
+Total nitrogen,Authorised,978
+Total nitrogen,Canceled,15
+Total nitrogen,Entered,14
+Total nitrogen,Not entered,8
 Total nitrogen,Rejected,1
-Total organisk karbon (TOC),Authorised,975
+Total organisk karbon (TOC),Authorised,986
 Total organisk karbon (TOC),Canceled,3
-Total organisk karbon (TOC),Entered,25
+Total organisk karbon (TOC),Entered,14
 Total organisk karbon (TOC),Rejected,2
-UV spekter,Authorised,975
+UV spekter,Authorised,986
 UV spekter,Canceled,24
-UV spekter,Entered,25
-pH,Authorised,975
+UV spekter,Entered,14
+pH,Authorised,986
 pH,Canceled,12
-pH,Entered,21
-pH,Modified,4
+pH,Entered,12
+pH,Modified,2
 pH,Rejected,154
-pH_Temp,Authorised,975
+pH_Temp,Authorised,986
 pH_Temp,Canceled,12
-pH_Temp,Entered,21
-pH_Temp,Modified,4
+pH_Temp,Entered,12
+pH_Temp,Modified,2
 pH_Temp,Rejected,154
 pH_farge,Authorised,3
 pH_farge,Canceled,14
