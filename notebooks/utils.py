@@ -1,5 +1,6 @@
 def ion_balance(df, fillna=False):
-    """
+    """ Performs ion balance calculations, as documented in Øyvind G's spreadhseet
+        (receieved from Atle by e-mail 18.02.2020 at 09:32.).
     """
     import pandas as pd
     

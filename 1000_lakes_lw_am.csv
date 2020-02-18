@@ -19196,31 +19196,31 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 104451,26205.0,Vålmangen,Innsjø,2019-10-25,Total fosfor,Authorised,<1,8.0,UG_P_P_L,9.0
 104451,26205.0,Vålmangen,Innsjø,2019-10-25,Total organisk karbon (TOC),Authorised,"<0,10",14.5,MG_C_L,7.6
 104451,26205.0,Vålmangen,Innsjø,2019-10-25,Alkalitet,Authorised,"<0,030",0.05,MMOLE_P_L,0.073
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Total organisk karbon (TOC),Entered,"<0,10",7.9,MG_C_L,4.5
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Alkalitet,Entered,"<0,030",0.048,MMOLE_P_L,0.04
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Konduktivitet,Entered,"<0,1",1.05,MS_P_M,1.08
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Fluorid,Entered,<2,10.0,UG_P_L,40.0
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Klorid,Entered,"<0,005",0.38,MG_P_L,0.5
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Sulfat,Entered,"<0,005",0.71,MG_P_L,2.2
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Natrium,Entered,"<0,002",0.56,MG_P_L,0.53
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Magnesium,Entered,"<0,002",0.16,MG_P_L,0.15
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Kalium,Entered,"<0,003",0.15,MG_P_L,0.17
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Kalsium,Entered,"<0,002",1.42,MG_P_L,0.88
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Total nitrogen,Entered,10,170.0,UG_P_L,210.0
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,pH,Entered,"<3,50",5.37,PH,5.54
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Nitritt + nitrat,Entered,<1,14.0,UG_N_L,7.0
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Total organisk karbon (TOC),Authorised,"<0,10",7.9,MG_C_L,4.5
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Alkalitet,Authorised,"<0,030",0.048,MMOLE_P_L,0.04
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Konduktivitet,Authorised,"<0,1",1.05,MS_P_M,1.08
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Fluorid,Authorised,<2,10.0,UG_P_L,40.0
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Klorid,Authorised,"<0,005",0.38,MG_P_L,0.5
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Sulfat,Authorised,"<0,005",0.71,MG_P_L,2.2
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Natrium,Authorised,"<0,002",0.56,MG_P_L,0.53
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Magnesium,Authorised,"<0,002",0.16,MG_P_L,0.15
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Kalium,Authorised,"<0,003",0.15,MG_P_L,0.17
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Kalsium,Authorised,"<0,002",1.42,MG_P_L,0.88
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Total nitrogen,Authorised,10,170.0,UG_P_L,210.0
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,pH,Authorised,"<3,50",5.37,PH,5.54
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Nitritt + nitrat,Authorised,<1,14.0,UG_N_L,7.0
 104454,26155.0,Holmsjøen,Innsjø,2019-10-24,"Aluminium, reaktivt",Authorised,<5,42.0,UG_P_L,43.0
 104454,26155.0,Holmsjøen,Innsjø,2019-10-24,"Aluminium, ikke labil",Authorised,<5,34.0,UG_P_L,40.0
 104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Total fosfor,Authorised,<1,6.0,UG_P_P_L,8.0
 104454,26155.0,Holmsjøen,Innsjø,2019-10-24,pH,Rejected,"<3,50",5.39,PH,5.54
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,pH,Entered,"<3,50",5.68,PH,5.54
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Alkalitet,Entered,"<0,030",0.055,MMOLE_P_L,0.04
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,pH,Authorised,"<3,50",5.68,PH,5.54
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Alkalitet,Authorised,"<0,030",0.055,MMOLE_P_L,0.04
 104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Konduktivitet,Rejected,"<0,1",1.05,MS_P_M,1.08
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Fluorid,Entered,<2,12.0,UG_P_L,40.0
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Sulfat,Entered,"<0,005",0.72,MG_P_L,2.2
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Natrium,Entered,"<0,002",0.59,MG_P_L,0.53
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Magnesium,Entered,"<0,002",0.14,MG_P_L,0.15
-104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Kalsium,Entered,"<0,002",0.95,MG_P_L,0.88
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Fluorid,Authorised,<2,12.0,UG_P_L,40.0
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Sulfat,Authorised,"<0,005",0.72,MG_P_L,2.2
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Natrium,Authorised,"<0,002",0.59,MG_P_L,0.53
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Magnesium,Authorised,"<0,002",0.14,MG_P_L,0.15
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Kalsium,Authorised,"<0,002",0.95,MG_P_L,0.88
 104455,46620.0,Nøklevatn,Innsjø,2019-10-25,Konduktivitet,Authorised,"<0,1",1.52,MS_P_M,1.54
 104455,46620.0,Nøklevatn,Innsjø,2019-10-25,Nitritt + nitrat,Authorised,<1,62.0,UG_N_L,99.0
 104455,46620.0,Nøklevatn,Innsjø,2019-10-25,"Aluminium, reaktivt",Authorised,<5,100.0,UG_P_L,122.0
@@ -22449,13 +22449,13 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 102617,27026.0,Storvatnet,Innsjø,2019-11-24,Total organisk karbon (TOC),Authorised,"<0,10",0.65,MG_C_L,1.0
 102617,27026.0,Storvatnet,Innsjø,2019-11-24,Alkalitet,Authorised,"<0,030",0.09,MMOLE_P_L,0.055
 102620,26899.0,Femvatnan,Innsjø,2019-09-24,Konduktivitet,Authorised,"<0,1",5.04,MS_P_M,2.8
-102620,26899.0,Femvatnan,Innsjø,2019-09-24,Fluorid,Entered,<2,7.0,UG_P_L,40.0
-102620,26899.0,Femvatnan,Innsjø,2019-09-24,Klorid,Entered,"<0,005",2.23,MG_P_L,2.3
-102620,26899.0,Femvatnan,Innsjø,2019-09-24,Sulfat,Entered,"<0,005",2.94,MG_P_L,4.6
-102620,26899.0,Femvatnan,Innsjø,2019-09-24,Natrium,Entered,"<0,002",1.86,MG_P_L,1.8
-102620,26899.0,Femvatnan,Innsjø,2019-09-24,Magnesium,Entered,"<0,002",0.59,MG_P_L,0.39
-102620,26899.0,Femvatnan,Innsjø,2019-09-24,Kalium,Entered,"<0,003",0.59,MG_P_L,0.68
-102620,26899.0,Femvatnan,Innsjø,2019-09-24,Kalsium,Entered,"<0,002",7.33,MG_P_L,2.25
+102620,26899.0,Femvatnan,Innsjø,2019-09-24,Fluorid,Rejected,<2,7.0,UG_P_L,40.0
+102620,26899.0,Femvatnan,Innsjø,2019-09-24,Klorid,Rejected,"<0,005",2.23,MG_P_L,2.3
+102620,26899.0,Femvatnan,Innsjø,2019-09-24,Sulfat,Rejected,"<0,005",2.94,MG_P_L,4.6
+102620,26899.0,Femvatnan,Innsjø,2019-09-24,Natrium,Rejected,"<0,002",1.86,MG_P_L,1.8
+102620,26899.0,Femvatnan,Innsjø,2019-09-24,Magnesium,Rejected,"<0,002",0.59,MG_P_L,0.39
+102620,26899.0,Femvatnan,Innsjø,2019-09-24,Kalium,Rejected,"<0,003",0.59,MG_P_L,0.68
+102620,26899.0,Femvatnan,Innsjø,2019-09-24,Kalsium,Rejected,"<0,002",7.33,MG_P_L,2.25
 102620,26899.0,Femvatnan,Innsjø,2019-09-24,Total nitrogen,Authorised,10,29.0,UG_P_L,38.0
 102620,26899.0,Femvatnan,Innsjø,2019-09-24,pH,Authorised,"<3,50",7.37,PH,6.91
 102620,26899.0,Femvatnan,Innsjø,2019-09-24,Nitritt + nitrat,Authorised,<1,1.0,UG_N_L,4.0
@@ -22464,13 +22464,13 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 102620,26899.0,Femvatnan,Innsjø,2019-09-24,Total fosfor,Authorised,<1,2.0,UG_P_P_L,3.0
 102620,26899.0,Femvatnan,Innsjø,2019-09-24,Total organisk karbon (TOC),Authorised,"<0,10",0.53,MG_C_L,0.2
 102620,26899.0,Femvatnan,Innsjø,2019-09-24,Alkalitet,Authorised,"<0,030",0.326,MMOLE_P_L,0.11
-102620,26899.0,Femvatnan,Innsjø,2019-09-24,Fluorid,Entered,<2,8.0,UG_P_L,40.0
-102620,26899.0,Femvatnan,Innsjø,2019-09-24,Klorid,Entered,"<0,005",2.18,MG_P_L,2.3
-102620,26899.0,Femvatnan,Innsjø,2019-09-24,Sulfat,Entered,"<0,005",2.93,MG_P_L,4.6
-102620,26899.0,Femvatnan,Innsjø,2019-09-24,Natrium,Entered,"<0,002",1.74,MG_P_L,1.8
-102620,26899.0,Femvatnan,Innsjø,2019-09-24,Magnesium,Entered,"<0,002",0.53,MG_P_L,0.39
-102620,26899.0,Femvatnan,Innsjø,2019-09-24,Kalium,Entered,"<0,003",0.51,MG_P_L,0.68
-102620,26899.0,Femvatnan,Innsjø,2019-09-24,Kalsium,Entered,"<0,002",6.3,MG_P_L,2.25
+102620,26899.0,Femvatnan,Innsjø,2019-09-24,Fluorid,Authorised,<2,8.0,UG_P_L,40.0
+102620,26899.0,Femvatnan,Innsjø,2019-09-24,Klorid,Authorised,"<0,005",2.18,MG_P_L,2.3
+102620,26899.0,Femvatnan,Innsjø,2019-09-24,Sulfat,Authorised,"<0,005",2.93,MG_P_L,4.6
+102620,26899.0,Femvatnan,Innsjø,2019-09-24,Natrium,Authorised,"<0,002",1.74,MG_P_L,1.8
+102620,26899.0,Femvatnan,Innsjø,2019-09-24,Magnesium,Authorised,"<0,002",0.53,MG_P_L,0.39
+102620,26899.0,Femvatnan,Innsjø,2019-09-24,Kalium,Authorised,"<0,003",0.51,MG_P_L,0.68
+102620,26899.0,Femvatnan,Innsjø,2019-09-24,Kalsium,Authorised,"<0,002",6.3,MG_P_L,2.25
 102622,26909.0,Goddejavri,Innsjø,2019-09-24,Konduktivitet,Authorised,"<0,1",7.78,MS_P_M,5.55
 102622,26909.0,Goddejavri,Innsjø,2019-09-24,Fluorid,Authorised,<2,12.0,UG_P_L,40.0
 102622,26909.0,Goddejavri,Innsjø,2019-09-24,Klorid,Authorised,"<0,005",0.46,MG_P_L,0.7
@@ -22981,6 +22981,7 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 102615,26893.0,Dalbergvatnet,Innsjø,2019-09-24,Ca/Mg,Authorised,,5.360655737704918,None,4.9491525423728815
 102616,26140.0,Daudmannsvatn,Innsjø,2019-09-28,Ca/Mg,Authorised,,1.866666666666667,None,1.434782608695652
 102617,27026.0,Storvatnet,Innsjø,2019-11-24,Ca/Mg,Authorised,,1.2678571428571426,None,1.641025641025641
+102620,26899.0,Femvatnan,Innsjø,2019-09-24,Ca/Mg,Authorised,,11.886792452830187,None,5.769230769230769
 102622,26909.0,Goddejavri,Innsjø,2019-09-24,Ca/Mg,Authorised,,8.321678321678322,None,8.448979591836734
 102623,26908.0,Vuoddojavrit,Innsjø,2019-09-24,Ca/Mg,Authorised,,6.833333333333333,None,6.294117647058823
 102626,26888.0,Botnvatn,Innsjø,2019-09-24,Ca/Mg,Authorised,,4.346153846153847,None,3.8540145985401457
@@ -23597,6 +23598,7 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 104448,26207.0,Mjølsjøen,Innsjø,2019-10-24,Ca/Mg,Authorised,,6.672727272727272,None,5.291666666666667
 104449,26223.0,Halvorstjørna,Innsjø,2019-10-14,Ca/Mg,Authorised,,15.88,None,14.53061224489796
 104451,26205.0,Vålmangen,Innsjø,2019-10-25,Ca/Mg,Authorised,,4.357142857142857,None,6.3
+104454,26155.0,Holmsjøen,Innsjø,2019-10-24,Ca/Mg,Authorised,,7.8999999999999995,None,5.866666666666667
 104455,46620.0,Nøklevatn,Innsjø,2019-10-25,Ca/Mg,Authorised,,3.043478260869565,None,3.08695652173913
 104456,26202.0,Kalbråtåsjøen,Innsjø,2019-10-25,Ca/Mg,Authorised,,2.5,None,2.3488372093023258
 104457,26204.0,Knapptjernet,Innsjø,2019-10-25,Ca/Mg,Authorised,,3.0246913580246915,None,3.011627906976744
