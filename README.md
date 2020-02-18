@@ -6,4 +6,4 @@ Comparing the 2019 results currently being analysed by NIVALAB with data from th
 
 
 
-[link](https://raw.githubusercontent.com/NIVANorge/1000_lakes_qc/master/pages/ion_difference_pct.html)
+[link](https://NIVANorge.github.io/1000_lakes_qc/pages/ion_difference_pct.html)
