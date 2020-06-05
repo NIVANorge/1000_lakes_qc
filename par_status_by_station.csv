@@ -1,23 +1,18 @@
 parameter,status,sample_count
-Alkalitet,Authorised,998
+Alkalitet,Authorised,1000
 Alkalitet,Canceled,2
-Alkalitet,Entered,1
-Alkalitet,Modified,1
-Alkalitet,Rejected,123
+Alkalitet,Rejected,124
 Aluminium,Authorised,999
 Aluminium,Canceled,1
-"Aluminium, ikke labil",Authorised,998
+"Aluminium, ikke labil",Authorised,999
 "Aluminium, ikke labil",Canceled,2
-"Aluminium, ikke labil",Entered,1
 "Aluminium, ikke labil",Rejected,1
-"Aluminium, reaktivt",Authorised,998
+"Aluminium, reaktivt",Authorised,999
 "Aluminium, reaktivt",Canceled,2
-"Aluminium, reaktivt",Entered,1
 "Aluminium, reaktivt",Rejected,1
-Ammonium,Authorised,998
+Ammonium,Authorised,1000
 Ammonium,Canceled,2
-Ammonium,Entered,2
-Ammonium,Rejected,76
+Ammonium,Rejected,77
 Antimon,Canceled,5
 Arsen,Authorised,999
 Arsen,Canceled,1
@@ -25,106 +20,86 @@ Barium,Canceled,5
 Bly,Authorised,999
 Bly,Canceled,1
 Bor,Canceled,5
-Fargetall,Authorised,998
+Fargetall,Authorised,1000
 Fargetall,Canceled,48
-Fargetall,Entered,2
-Fargetall,Rejected,122
-Fluorid,Authorised,998
+Fargetall,Rejected,123
+Fluorid,Authorised,1000
 Fluorid,Canceled,1
-Fluorid,Entered,2
-Fluorid,Rejected,76
-Fosfat,Authorised,995
+Fluorid,Rejected,77
+Fosfat,Authorised,997
 Fosfat,Canceled,1
-Fosfat,Entered,2
 Fosfat,Rejected,5
 Jern,Authorised,999
 Jern,Canceled,1
 Kadmium,Authorised,999
 Kadmium,Canceled,1
-Kalium,Authorised,998
+Kalium,Authorised,1000
 Kalium,Canceled,7
-Kalium,Entered,2
-Kalium,Rejected,76
-Kalsium,Authorised,998
+Kalium,Rejected,77
+Kalsium,Authorised,1000
 Kalsium,Canceled,3
-Kalsium,Entered,2
-Kalsium,Rejected,76
-Klorid,Authorised,998
+Kalsium,Rejected,77
+Klorid,Authorised,1000
 Klorid,Canceled,2
-Klorid,Entered,2
-Klorid,Rejected,76
+Klorid,Rejected,77
 Kobber,Authorised,999
 Kobber,Canceled,1
 Kobolt,Authorised,999
 Kobolt,Canceled,1
-Kond_Temp,Authorised,998
+Kond_Temp,Authorised,1000
 Kond_Temp,Canceled,3
-Kond_Temp,Entered,2
-Kond_Temp,Rejected,109
-Konduktivitet,Authorised,998
+Kond_Temp,Rejected,111
+Konduktivitet,Authorised,1000
 Konduktivitet,Canceled,3
-Konduktivitet,Entered,2
-Konduktivitet,Rejected,109
+Konduktivitet,Rejected,111
 Krom,Authorised,999
 Krom,Canceled,1
 Kvikksølv,Authorised,998
 Kvikksølv,Canceled,2
 Litium,Canceled,5
-Løst organisk karbon (DOC),Authorised,998
+Løst organisk karbon (DOC),Authorised,1000
 Løst organisk karbon (DOC),Canceled,3
-Løst organisk karbon (DOC),Entered,2
 Løst organisk karbon (DOC),Rejected,2
-Magnesium,Authorised,998
+Magnesium,Authorised,1000
 Magnesium,Canceled,2
-Magnesium,Entered,2
-Magnesium,Rejected,76
+Magnesium,Rejected,77
 Mangan,Authorised,999
 Mangan,Canceled,1
 Molybden,Canceled,5
-Natrium,Authorised,998
+Natrium,Authorised,1000
 Natrium,Canceled,2
-Natrium,Entered,2
-Natrium,Rejected,76
+Natrium,Rejected,77
 Nikkel,Authorised,999
 Nikkel,Canceled,1
 Niob,Canceled,5
-Nitritt + nitrat,Authorised,998
+Nitritt + nitrat,Authorised,1000
 Nitritt + nitrat,Canceled,1
-Nitritt + nitrat,Entered,2
 Nitritt + nitrat,Rejected,22
-Silikat,Authorised,998
+Silikat,Authorised,1000
 Silikat,Canceled,1
-Silikat,Entered,2
 Silikat,Rejected,13
 Sink,Authorised,999
 Sink,Canceled,1
 Strontium,Canceled,5
-Sulfat,Authorised,998
+Sulfat,Authorised,1000
 Sulfat,Canceled,2
-Sulfat,Entered,2
-Sulfat,Rejected,76
+Sulfat,Rejected,77
 Temperatur,Authorised,1
 Total fosfor,Authorised,1000
 Total fosfor,Canceled,2
-Total nitrogen,Authorised,977
-Total nitrogen,Canceled,999
-Total nitrogen,Entered,16
-Total nitrogen,Not entered,8
-Total organisk karbon (TOC),Authorised,998
+Total nitrogen,Authorised,1000
+Total nitrogen,Canceled,1000
+Total organisk karbon (TOC),Authorised,1000
 Total organisk karbon (TOC),Canceled,3
-Total organisk karbon (TOC),Entered,2
 Total organisk karbon (TOC),Rejected,2
-UV spekter,Authorised,998
+UV spekter,Authorised,1000
 UV spekter,Canceled,24
-UV spekter,Entered,2
-pH,Authorised,998
+pH,Authorised,1000
 pH,Canceled,12
-pH,Entered,2
-pH,Rejected,154
-pH_Temp,Authorised,998
+pH,Rejected,155
+pH_Temp,Authorised,1000
 pH_Temp,Canceled,12
-pH_Temp,Entered,2
-pH_Temp,Rejected,154
+pH_Temp,Rejected,155
 pH_farge,Authorised,3
 pH_farge,Canceled,14
 pH_farge,Rejected,22
