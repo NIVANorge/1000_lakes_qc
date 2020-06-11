@@ -2,7 +2,7 @@ parameter,status,sample_count
 Alkalitet,Authorised,1000
 Alkalitet,Canceled,2
 Alkalitet,Rejected,124
-Aluminium,Authorised,999
+Aluminium,Authorised,1000
 Aluminium,Canceled,1
 "Aluminium, ikke labil",Authorised,999
 "Aluminium, ikke labil",Canceled,2
@@ -14,10 +14,10 @@ Ammonium,Authorised,1000
 Ammonium,Canceled,2
 Ammonium,Rejected,77
 Antimon,Canceled,5
-Arsen,Authorised,999
+Arsen,Authorised,1000
 Arsen,Canceled,1
 Barium,Canceled,5
-Bly,Authorised,999
+Bly,Authorised,1000
 Bly,Canceled,1
 Bor,Canceled,5
 Fargetall,Authorised,1000
@@ -29,9 +29,9 @@ Fluorid,Rejected,77
 Fosfat,Authorised,997
 Fosfat,Canceled,1
 Fosfat,Rejected,5
-Jern,Authorised,999
+Jern,Authorised,1000
 Jern,Canceled,1
-Kadmium,Authorised,999
+Kadmium,Authorised,1000
 Kadmium,Canceled,1
 Kalium,Authorised,1000
 Kalium,Canceled,7
@@ -42,9 +42,9 @@ Kalsium,Rejected,77
 Klorid,Authorised,1000
 Klorid,Canceled,2
 Klorid,Rejected,77
-Kobber,Authorised,999
+Kobber,Authorised,1000
 Kobber,Canceled,1
-Kobolt,Authorised,999
+Kobolt,Authorised,1000
 Kobolt,Canceled,1
 Kond_Temp,Authorised,1000
 Kond_Temp,Canceled,3
@@ -52,9 +52,9 @@ Kond_Temp,Rejected,111
 Konduktivitet,Authorised,1000
 Konduktivitet,Canceled,3
 Konduktivitet,Rejected,111
-Krom,Authorised,999
+Krom,Authorised,1000
 Krom,Canceled,1
-Kvikksølv,Authorised,998
+Kvikksølv,Authorised,999
 Kvikksølv,Canceled,2
 Litium,Canceled,5
 Løst organisk karbon (DOC),Authorised,1000
@@ -63,13 +63,13 @@ Løst organisk karbon (DOC),Rejected,2
 Magnesium,Authorised,1000
 Magnesium,Canceled,2
 Magnesium,Rejected,77
-Mangan,Authorised,999
+Mangan,Authorised,1000
 Mangan,Canceled,1
 Molybden,Canceled,5
 Natrium,Authorised,1000
 Natrium,Canceled,2
 Natrium,Rejected,77
-Nikkel,Authorised,999
+Nikkel,Authorised,1000
 Nikkel,Canceled,1
 Niob,Canceled,5
 Nitritt + nitrat,Authorised,1000
@@ -78,7 +78,7 @@ Nitritt + nitrat,Rejected,22
 Silikat,Authorised,1000
 Silikat,Canceled,1
 Silikat,Rejected,13
-Sink,Authorised,999
+Sink,Authorised,1000
 Sink,Canceled,1
 Strontium,Canceled,5
 Sulfat,Authorised,1000

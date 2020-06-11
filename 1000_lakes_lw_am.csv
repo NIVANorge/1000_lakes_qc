@@ -2400,20 +2400,20 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 102201,27004.0,Prestelvvatnet,Innsjø,2019-09-18,Alkalitet,Authorised,"<0,030",0.095,MMOLE_P_L,0.092
 102201,27004.0,Prestelvvatnet,Innsjø,2019-09-18,Kalsium,Authorised,"<0,002",1.68,MG_P_L,1.13
 102201,27004.0,Prestelvvatnet,Innsjø,2019-09-18,Total nitrogen,Authorised,10,79.0,UG_P_L,68.0
-102202,26992.0,Gistuladdut,Innsjø,2019-09-19,Bly,Authorised,"0,01",0.01,UG_P_L,0.1
-102202,26992.0,Gistuladdut,Innsjø,2019-09-19,Aluminium,Authorised,1,29.0,UG_P_L,13.0
-102202,26992.0,Gistuladdut,Innsjø,2019-09-19,Arsen,Authorised,"0,02",0.063,UG_P_L,0.117
-102202,26992.0,Gistuladdut,Innsjø,2019-09-19,Kobber,Authorised,"0,05",0.34,UG_P_L,0.6
-102202,26992.0,Gistuladdut,Innsjø,2019-09-19,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
-102202,26992.0,Gistuladdut,Innsjø,2019-09-19,Nikkel,Authorised,"0,05",0.091,UG_P_L,0.5
-102202,26992.0,Gistuladdut,Innsjø,2019-09-19,Sink,Authorised,"0,2",0.2,UG_P_L,0.7
-102203,26995.0,Hannujavrit,Innsjø,2019-09-19,Bly,Authorised,"0,01",0.013,UG_P_L,0.37
-102203,26995.0,Hannujavrit,Innsjø,2019-09-19,Aluminium,Authorised,1,74.0,UG_P_L,8.0
-102203,26995.0,Hannujavrit,Innsjø,2019-09-19,Arsen,Authorised,"0,02",0.39,UG_P_L,0.299
-102203,26995.0,Hannujavrit,Innsjø,2019-09-19,Kobber,Authorised,"0,05",0.43,UG_P_L,0.5
-102203,26995.0,Hannujavrit,Innsjø,2019-09-19,Krom,Authorised,"0,05",0.16,UG_P_L,0.1
-102203,26995.0,Hannujavrit,Innsjø,2019-09-19,Nikkel,Authorised,"0,05",0.23,UG_P_L,0.5
-102203,26995.0,Hannujavrit,Innsjø,2019-09-19,Sink,Authorised,"0,2",0.2,UG_P_L,15.7
+102202,26992.0,Gistuladdut,Innsjø,2019-09-18,Bly,Authorised,"0,01",0.01,UG_P_L,0.1
+102202,26992.0,Gistuladdut,Innsjø,2019-09-18,Aluminium,Authorised,1,29.0,UG_P_L,13.0
+102202,26992.0,Gistuladdut,Innsjø,2019-09-18,Arsen,Authorised,"0,02",0.063,UG_P_L,0.117
+102202,26992.0,Gistuladdut,Innsjø,2019-09-18,Kobber,Authorised,"0,05",0.34,UG_P_L,0.6
+102202,26992.0,Gistuladdut,Innsjø,2019-09-18,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
+102202,26992.0,Gistuladdut,Innsjø,2019-09-18,Nikkel,Authorised,"0,05",0.091,UG_P_L,0.5
+102202,26992.0,Gistuladdut,Innsjø,2019-09-18,Sink,Authorised,"0,2",0.2,UG_P_L,0.7
+102203,26995.0,Hannujavrit,Innsjø,2019-09-18,Bly,Authorised,"0,01",0.013,UG_P_L,0.37
+102203,26995.0,Hannujavrit,Innsjø,2019-09-18,Aluminium,Authorised,1,74.0,UG_P_L,8.0
+102203,26995.0,Hannujavrit,Innsjø,2019-09-18,Arsen,Authorised,"0,02",0.39,UG_P_L,0.299
+102203,26995.0,Hannujavrit,Innsjø,2019-09-18,Kobber,Authorised,"0,05",0.43,UG_P_L,0.5
+102203,26995.0,Hannujavrit,Innsjø,2019-09-18,Krom,Authorised,"0,05",0.16,UG_P_L,0.1
+102203,26995.0,Hannujavrit,Innsjø,2019-09-18,Nikkel,Authorised,"0,05",0.23,UG_P_L,0.5
+102203,26995.0,Hannujavrit,Innsjø,2019-09-18,Sink,Authorised,"0,2",0.2,UG_P_L,15.7
 102204,26994.0,HOH 185,Innsjø,2019-09-18,Aluminium,Authorised,1,16.0,UG_P_L,0.0
 102205,26996.0,HOH 299,Innsjø,2019-09-19,Sink,Authorised,"0,2",1.6,UG_P_L,2.8
 102205,26996.0,HOH 299,Innsjø,2019-09-19,Bly,Authorised,"0,01",0.014,UG_P_L,0.09000000000000001
@@ -2484,25 +2484,25 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 102372,26927.0,Cuolbmajavri,Innsjø,2019-09-20,Krom,Authorised,"0,05",0.1,UG_P_L,-0.1
 102372,26927.0,Cuolbmajavri,Innsjø,2019-09-20,Nikkel,Authorised,"0,05",0.14,UG_P_L,0.2
 102372,26927.0,Cuolbmajavri,Innsjø,2019-09-20,Sink,Authorised,"0,2",0.2,UG_P_L,-0.3
-102373,26925.0,Cuorvoncåkkavuoljavri,Innsjø,2019-09-16,Bly,Authorised,"0,01",0.01,UG_P_L,0.04
-102373,26925.0,Cuorvoncåkkavuoljavri,Innsjø,2019-09-16,Aluminium,Authorised,1,3.8,UG_P_L,0.0
-102373,26925.0,Cuorvoncåkkavuoljavri,Innsjø,2019-09-16,Arsen,Authorised,"0,02",0.066,UG_P_L,-0.1
-102373,26925.0,Cuorvoncåkkavuoljavri,Innsjø,2019-09-16,Kobber,Authorised,"0,05",0.24,UG_P_L,-0.2
-102373,26925.0,Cuorvoncåkkavuoljavri,Innsjø,2019-09-16,Krom,Authorised,"0,05",0.18,UG_P_L,-0.1
-102373,26925.0,Cuorvoncåkkavuoljavri,Innsjø,2019-09-16,Nikkel,Authorised,"0,05",0.068,UG_P_L,0.1
-102373,26925.0,Cuorvoncåkkavuoljavri,Innsjø,2019-09-16,Sink,Authorised,"0,2",0.37,UG_P_L,-0.3
+102373,26925.0,Cuorvoncåkkavuoljavri,Innsjø,2019-09-20,Bly,Authorised,"0,01",0.01,UG_P_L,0.04
+102373,26925.0,Cuorvoncåkkavuoljavri,Innsjø,2019-09-20,Aluminium,Authorised,1,3.8,UG_P_L,0.0
+102373,26925.0,Cuorvoncåkkavuoljavri,Innsjø,2019-09-20,Arsen,Authorised,"0,02",0.066,UG_P_L,-0.1
+102373,26925.0,Cuorvoncåkkavuoljavri,Innsjø,2019-09-20,Kobber,Authorised,"0,05",0.24,UG_P_L,-0.2
+102373,26925.0,Cuorvoncåkkavuoljavri,Innsjø,2019-09-20,Krom,Authorised,"0,05",0.18,UG_P_L,-0.1
+102373,26925.0,Cuorvoncåkkavuoljavri,Innsjø,2019-09-20,Nikkel,Authorised,"0,05",0.068,UG_P_L,0.1
+102373,26925.0,Cuorvoncåkkavuoljavri,Innsjø,2019-09-20,Sink,Authorised,"0,2",0.37,UG_P_L,-0.3
 102374,26926.0,Gakkesjavri,Innsjø,2019-09-20,Bly,Authorised,"0,01",0.039,UG_P_L,0.06999999999999999
 102374,26926.0,Gakkesjavri,Innsjø,2019-09-20,Aluminium,Authorised,1,64.0,UG_P_L,5.0
 102374,26926.0,Gakkesjavri,Innsjø,2019-09-20,Kobber,Authorised,"0,05",0.28,UG_P_L,0.4
 102374,26926.0,Gakkesjavri,Innsjø,2019-09-20,Krom,Authorised,"0,05",0.31,UG_P_L,0.2
 102374,26926.0,Gakkesjavri,Innsjø,2019-09-20,Nikkel,Authorised,"0,05",0.24,UG_P_L,0.3
 102374,26926.0,Gakkesjavri,Innsjø,2019-09-20,Sink,Authorised,"0,2",0.53,UG_P_L,0.5
-102375,26144.0,Guolehisjavri,Innsjø,2019-09-16,Bly,Authorised,"0,01",0.011,UG_P_L,0.08
-102375,26144.0,Guolehisjavri,Innsjø,2019-09-16,Aluminium,Authorised,1,11.0,UG_P_L,0.0
-102375,26144.0,Guolehisjavri,Innsjø,2019-09-16,Kobber,Authorised,"0,05",0.05,UG_P_L,-0.2
-102375,26144.0,Guolehisjavri,Innsjø,2019-09-16,Krom,Authorised,"0,05",0.086,UG_P_L,0.1
-102375,26144.0,Guolehisjavri,Innsjø,2019-09-16,Nikkel,Authorised,"0,05",0.079,UG_P_L,0.4
-102375,26144.0,Guolehisjavri,Innsjø,2019-09-16,Sink,Authorised,"0,2",0.2,UG_P_L,0.5
+102375,26144.0,Guolehisjavri,Innsjø,2019-09-20,Bly,Authorised,"0,01",0.011,UG_P_L,0.08
+102375,26144.0,Guolehisjavri,Innsjø,2019-09-20,Aluminium,Authorised,1,11.0,UG_P_L,0.0
+102375,26144.0,Guolehisjavri,Innsjø,2019-09-20,Kobber,Authorised,"0,05",0.05,UG_P_L,-0.2
+102375,26144.0,Guolehisjavri,Innsjø,2019-09-20,Krom,Authorised,"0,05",0.086,UG_P_L,0.1
+102375,26144.0,Guolehisjavri,Innsjø,2019-09-20,Nikkel,Authorised,"0,05",0.079,UG_P_L,0.4
+102375,26144.0,Guolehisjavri,Innsjø,2019-09-20,Sink,Authorised,"0,2",0.2,UG_P_L,0.5
 102376,26930.0,HOH 356,Innsjø,2019-09-20,Bly,Authorised,"0,01",0.036,UG_P_L,0.16
 102376,26930.0,HOH 356,Innsjø,2019-09-20,Aluminium,Authorised,1,39.0,UG_P_L,14.0
 102376,26930.0,HOH 356,Innsjø,2019-09-20,Kobber,Authorised,"0,05",0.25,UG_P_L,0.3
@@ -2575,13 +2575,13 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 102386,26917.0,HOH 407,Innsjø,2019-09-20,Krom,Authorised,"0,05",0.07,UG_P_L,-0.1
 102386,26917.0,HOH 407,Innsjø,2019-09-20,Nikkel,Authorised,"0,05",0.085,UG_P_L,0.1
 102386,26917.0,HOH 407,Innsjø,2019-09-20,Sink,Authorised,"0,2",0.2,UG_P_L,-0.3
-102387,26143.0,HOH 414,Innsjø,2019-09-16,Bly,Authorised,"0,01",0.025,UG_P_L,-0.030000000000000002
-102387,26143.0,HOH 414,Innsjø,2019-09-16,Aluminium,Authorised,1,43.0,UG_P_L,14.0
-102387,26143.0,HOH 414,Innsjø,2019-09-16,Arsen,Authorised,"0,02",0.061,UG_P_L,-0.1
-102387,26143.0,HOH 414,Innsjø,2019-09-16,Kobber,Authorised,"0,05",0.23,UG_P_L,0.2
-102387,26143.0,HOH 414,Innsjø,2019-09-16,Krom,Authorised,"0,05",0.24,UG_P_L,0.2
-102387,26143.0,HOH 414,Innsjø,2019-09-16,Nikkel,Authorised,"0,05",0.2,UG_P_L,0.2
-102387,26143.0,HOH 414,Innsjø,2019-09-16,Sink,Authorised,"0,2",0.57,UG_P_L,0.5
+102387,26143.0,HOH 414,Innsjø,2019-09-20,Bly,Authorised,"0,01",0.025,UG_P_L,-0.030000000000000002
+102387,26143.0,HOH 414,Innsjø,2019-09-20,Aluminium,Authorised,1,43.0,UG_P_L,14.0
+102387,26143.0,HOH 414,Innsjø,2019-09-20,Arsen,Authorised,"0,02",0.061,UG_P_L,-0.1
+102387,26143.0,HOH 414,Innsjø,2019-09-20,Kobber,Authorised,"0,05",0.23,UG_P_L,0.2
+102387,26143.0,HOH 414,Innsjø,2019-09-20,Krom,Authorised,"0,05",0.24,UG_P_L,0.2
+102387,26143.0,HOH 414,Innsjø,2019-09-20,Nikkel,Authorised,"0,05",0.2,UG_P_L,0.2
+102387,26143.0,HOH 414,Innsjø,2019-09-20,Sink,Authorised,"0,2",0.57,UG_P_L,0.5
 102388,26931.0,HOH 424,Innsjø,2019-09-20,Bly,Authorised,"0,01",0.022,UG_P_L,0.18000000000000002
 102388,26931.0,HOH 424,Innsjø,2019-09-20,Aluminium,Authorised,1,21.0,UG_P_L,5.0
 102388,26931.0,HOH 424,Innsjø,2019-09-20,Arsen,Authorised,"0,02",0.029,UG_P_L,-0.1
@@ -2602,19 +2602,19 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 102390,26141.0,HOH 510,Innsjø,2019-09-20,Krom,Authorised,"0,05",0.23,UG_P_L,0.3
 102390,26141.0,HOH 510,Innsjø,2019-09-20,Nikkel,Authorised,"0,05",0.11,UG_P_L,0.2
 102390,26141.0,HOH 510,Innsjø,2019-09-20,Sink,Authorised,"0,2",3.7,UG_P_L,0.3
-102391,26918.0,HOH 537,Innsjø,2019-09-16,Bly,Authorised,"0,01",0.016,UG_P_L,0.06999999999999999
-102391,26918.0,HOH 537,Innsjø,2019-09-16,Aluminium,Authorised,1,9.3,UG_P_L,2.0
-102391,26918.0,HOH 537,Innsjø,2019-09-16,Arsen,Authorised,"0,02",0.14,UG_P_L,0.148
-102391,26918.0,HOH 537,Innsjø,2019-09-16,Kobber,Authorised,"0,05",0.35,UG_P_L,0.4
-102391,26918.0,HOH 537,Innsjø,2019-09-16,Krom,Authorised,"0,05",0.17,UG_P_L,0.1
-102391,26918.0,HOH 537,Innsjø,2019-09-16,Nikkel,Authorised,"0,05",0.57,UG_P_L,0.6
-102391,26918.0,HOH 537,Innsjø,2019-09-16,Sink,Authorised,"0,2",0.52,UG_P_L,0.3
-102392,26938.0,Jårgajavri,Innsjø,2019-09-16,Bly,Authorised,"0,01",0.01,UG_P_L,0.05
-102392,26938.0,Jårgajavri,Innsjø,2019-09-16,Aluminium,Authorised,1,6.9,UG_P_L,0.0
-102392,26938.0,Jårgajavri,Innsjø,2019-09-16,Kobber,Authorised,"0,05",0.16,UG_P_L,0.4
-102392,26938.0,Jårgajavri,Innsjø,2019-09-16,Krom,Authorised,"0,05",0.25,UG_P_L,0.1
-102392,26938.0,Jårgajavri,Innsjø,2019-09-16,Nikkel,Authorised,"0,05",0.17,UG_P_L,0.5
-102392,26938.0,Jårgajavri,Innsjø,2019-09-16,Sink,Authorised,"0,2",0.2,UG_P_L,0.6
+102391,26918.0,HOH 537,Innsjø,2019-09-20,Bly,Authorised,"0,01",0.016,UG_P_L,0.06999999999999999
+102391,26918.0,HOH 537,Innsjø,2019-09-20,Aluminium,Authorised,1,9.3,UG_P_L,2.0
+102391,26918.0,HOH 537,Innsjø,2019-09-20,Arsen,Authorised,"0,02",0.14,UG_P_L,0.148
+102391,26918.0,HOH 537,Innsjø,2019-09-20,Kobber,Authorised,"0,05",0.35,UG_P_L,0.4
+102391,26918.0,HOH 537,Innsjø,2019-09-20,Krom,Authorised,"0,05",0.17,UG_P_L,0.1
+102391,26918.0,HOH 537,Innsjø,2019-09-20,Nikkel,Authorised,"0,05",0.57,UG_P_L,0.6
+102391,26918.0,HOH 537,Innsjø,2019-09-20,Sink,Authorised,"0,2",0.52,UG_P_L,0.3
+102392,26938.0,Jårgajavri,Innsjø,2019-09-20,Bly,Authorised,"0,01",0.01,UG_P_L,0.05
+102392,26938.0,Jårgajavri,Innsjø,2019-09-20,Aluminium,Authorised,1,6.9,UG_P_L,0.0
+102392,26938.0,Jårgajavri,Innsjø,2019-09-20,Kobber,Authorised,"0,05",0.16,UG_P_L,0.4
+102392,26938.0,Jårgajavri,Innsjø,2019-09-20,Krom,Authorised,"0,05",0.25,UG_P_L,0.1
+102392,26938.0,Jårgajavri,Innsjø,2019-09-20,Nikkel,Authorised,"0,05",0.17,UG_P_L,0.5
+102392,26938.0,Jårgajavri,Innsjø,2019-09-20,Sink,Authorised,"0,2",0.2,UG_P_L,0.6
 102393,26920.0,Madiijavrit,Innsjø,2019-09-20,Kobber,Authorised,"0,05",0.05,UG_P_L,-0.2
 102393,26920.0,Madiijavrit,Innsjø,2019-09-20,Krom,Authorised,"0,05",0.14,UG_P_L,0.2
 102393,26920.0,Madiijavrit,Innsjø,2019-09-20,Nikkel,Authorised,"0,05",0.082,UG_P_L,0.5
@@ -6559,27 +6559,27 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 102800,26842.0,Helknavatnet,Innsjø,2019-09-26,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
 102800,26842.0,Helknavatnet,Innsjø,2019-09-26,Nikkel,Authorised,"0,05",0.05,UG_P_L,-0.1
 102800,26842.0,Helknavatnet,Innsjø,2019-09-26,Sink,Authorised,"0,2",0.26,UG_P_L,0.9
-102802,27067.0,Rundvatn,Innsjø,2019-09-23,Bly,Authorised,"0,01",0.01,UG_P_L,-0.030000000000000002
-102802,27067.0,Rundvatn,Innsjø,2019-09-23,Aluminium,Authorised,1,13.0,UG_P_L,2.0
-102802,27067.0,Rundvatn,Innsjø,2019-09-23,Arsen,Authorised,"0,02",0.02,UG_P_L,-0.1
-102802,27067.0,Rundvatn,Innsjø,2019-09-23,Kobber,Authorised,"0,05",0.05,UG_P_L,0.2
-102802,27067.0,Rundvatn,Innsjø,2019-09-23,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
-102802,27067.0,Rundvatn,Innsjø,2019-09-23,Nikkel,Authorised,"0,05",0.05,UG_P_L,-0.1
-102802,27067.0,Rundvatn,Innsjø,2019-09-23,Sink,Authorised,"0,2",0.22,UG_P_L,-0.3
-102803,26887.0,Storvatnet,Innsjø,2019-09-23,Bly,Authorised,"0,01",0.01,UG_P_L,0.12999999999999998
-102803,26887.0,Storvatnet,Innsjø,2019-09-23,Aluminium,Authorised,1,24.0,UG_P_L,4.0
-102803,26887.0,Storvatnet,Innsjø,2019-09-23,Arsen,Authorised,"0,02",0.028,UG_P_L,0.17
-102803,26887.0,Storvatnet,Innsjø,2019-09-23,Kobber,Authorised,"0,05",0.26,UG_P_L,0.3
-102803,26887.0,Storvatnet,Innsjø,2019-09-23,Krom,Authorised,"0,05",0.11,UG_P_L,0.2
-102803,26887.0,Storvatnet,Innsjø,2019-09-23,Nikkel,Authorised,"0,05",0.2,UG_P_L,0.2
-102803,26887.0,Storvatnet,Innsjø,2019-09-23,Sink,Authorised,"0,2",0.28,UG_P_L,1.0
-102810,27063.0,HOH 674,Innsjø,2019-09-23,Bly,Authorised,"0,01",0.082,UG_P_L,0.18000000000000002
-102810,27063.0,HOH 674,Innsjø,2019-09-23,Aluminium,Authorised,1,21.0,UG_P_L,2.0
-102810,27063.0,HOH 674,Innsjø,2019-09-23,Arsen,Authorised,"0,02",0.033,UG_P_L,-0.1
-102810,27063.0,HOH 674,Innsjø,2019-09-23,Kobber,Authorised,"0,05",0.05,UG_P_L,0.2
-102810,27063.0,HOH 674,Innsjø,2019-09-23,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
-102810,27063.0,HOH 674,Innsjø,2019-09-23,Nikkel,Authorised,"0,05",0.05,UG_P_L,0.1
-102810,27063.0,HOH 674,Innsjø,2019-09-23,Sink,Authorised,"0,2",0.27,UG_P_L,0.8
+102802,27067.0,Rundvatn,Innsjø,2019-09-24,Bly,Authorised,"0,01",0.01,UG_P_L,-0.030000000000000002
+102802,27067.0,Rundvatn,Innsjø,2019-09-24,Aluminium,Authorised,1,13.0,UG_P_L,2.0
+102802,27067.0,Rundvatn,Innsjø,2019-09-24,Arsen,Authorised,"0,02",0.02,UG_P_L,-0.1
+102802,27067.0,Rundvatn,Innsjø,2019-09-24,Kobber,Authorised,"0,05",0.05,UG_P_L,0.2
+102802,27067.0,Rundvatn,Innsjø,2019-09-24,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
+102802,27067.0,Rundvatn,Innsjø,2019-09-24,Nikkel,Authorised,"0,05",0.05,UG_P_L,-0.1
+102802,27067.0,Rundvatn,Innsjø,2019-09-24,Sink,Authorised,"0,2",0.22,UG_P_L,-0.3
+102803,26887.0,Storvatnet,Innsjø,2019-09-24,Bly,Authorised,"0,01",0.01,UG_P_L,0.12999999999999998
+102803,26887.0,Storvatnet,Innsjø,2019-09-24,Aluminium,Authorised,1,24.0,UG_P_L,4.0
+102803,26887.0,Storvatnet,Innsjø,2019-09-24,Arsen,Authorised,"0,02",0.028,UG_P_L,0.17
+102803,26887.0,Storvatnet,Innsjø,2019-09-24,Kobber,Authorised,"0,05",0.26,UG_P_L,0.3
+102803,26887.0,Storvatnet,Innsjø,2019-09-24,Krom,Authorised,"0,05",0.11,UG_P_L,0.2
+102803,26887.0,Storvatnet,Innsjø,2019-09-24,Nikkel,Authorised,"0,05",0.2,UG_P_L,0.2
+102803,26887.0,Storvatnet,Innsjø,2019-09-24,Sink,Authorised,"0,2",0.28,UG_P_L,1.0
+102810,27063.0,HOH 674,Innsjø,2019-09-26,Bly,Authorised,"0,01",0.082,UG_P_L,0.18000000000000002
+102810,27063.0,HOH 674,Innsjø,2019-09-26,Aluminium,Authorised,1,21.0,UG_P_L,2.0
+102810,27063.0,HOH 674,Innsjø,2019-09-26,Arsen,Authorised,"0,02",0.033,UG_P_L,-0.1
+102810,27063.0,HOH 674,Innsjø,2019-09-26,Kobber,Authorised,"0,05",0.05,UG_P_L,0.2
+102810,27063.0,HOH 674,Innsjø,2019-09-26,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
+102810,27063.0,HOH 674,Innsjø,2019-09-26,Nikkel,Authorised,"0,05",0.05,UG_P_L,0.1
+102810,27063.0,HOH 674,Innsjø,2019-09-26,Sink,Authorised,"0,2",0.27,UG_P_L,0.8
 102811,26839.0,Myrmarkvatnet,Innsjø,2019-09-26,Bly,Authorised,"0,01",0.1,UG_P_L,0.12000000000000001
 102811,26839.0,Myrmarkvatnet,Innsjø,2019-09-26,Aluminium,Authorised,1,93.0,UG_P_L,6.0
 102811,26839.0,Myrmarkvatnet,Innsjø,2019-09-26,Arsen,Authorised,"0,02",0.049,UG_P_L,-0.1
@@ -9796,13 +9796,13 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 102529,26957.0,HOH 340,Innsjø,2019-09-22,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
 102529,26957.0,HOH 340,Innsjø,2019-09-22,Nikkel,Authorised,"0,05",0.22,UG_P_L,0.3
 102529,26957.0,HOH 340,Innsjø,2019-09-22,Sink,Authorised,"0,2",0.29,UG_P_L,0.3
-102530,26956.0,HOH 370,Innsjø,2019-09-16,Bly,Authorised,"0,01",0.03,UG_P_L,0.060000000000000005
-102530,26956.0,HOH 370,Innsjø,2019-09-16,Aluminium,Authorised,1,16.0,UG_P_L,0.0
-102530,26956.0,HOH 370,Innsjø,2019-09-16,Arsen,Authorised,"0,02",0.12,UG_P_L,-0.1
-102530,26956.0,HOH 370,Innsjø,2019-09-16,Kobber,Authorised,"0,05",0.15,UG_P_L,-0.2
-102530,26956.0,HOH 370,Innsjø,2019-09-16,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
-102530,26956.0,HOH 370,Innsjø,2019-09-16,Nikkel,Authorised,"0,05",0.05,UG_P_L,-0.1
-102530,26956.0,HOH 370,Innsjø,2019-09-16,Sink,Authorised,"0,2",0.2,UG_P_L,-0.3
+102530,26956.0,HOH 370,Innsjø,2019-09-22,Bly,Authorised,"0,01",0.03,UG_P_L,0.060000000000000005
+102530,26956.0,HOH 370,Innsjø,2019-09-22,Aluminium,Authorised,1,16.0,UG_P_L,0.0
+102530,26956.0,HOH 370,Innsjø,2019-09-22,Arsen,Authorised,"0,02",0.12,UG_P_L,-0.1
+102530,26956.0,HOH 370,Innsjø,2019-09-22,Kobber,Authorised,"0,05",0.15,UG_P_L,-0.2
+102530,26956.0,HOH 370,Innsjø,2019-09-22,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
+102530,26956.0,HOH 370,Innsjø,2019-09-22,Nikkel,Authorised,"0,05",0.05,UG_P_L,-0.1
+102530,26956.0,HOH 370,Innsjø,2019-09-22,Sink,Authorised,"0,2",0.2,UG_P_L,-0.3
 102531,27073.0,HOH 497,Innsjø,2019-09-22,Bly,Authorised,"0,01",0.01,UG_P_L,0.060000000000000005
 102531,27073.0,HOH 497,Innsjø,2019-09-22,Aluminium,Authorised,1,14.0,UG_P_L,0.0
 102531,27073.0,HOH 497,Innsjø,2019-09-22,Kobber,Authorised,"0,05",0.05,UG_P_L,2.0
@@ -9816,12 +9816,12 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 102532,26960.0,Jiegnajavrit,Innsjø,2019-09-22,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
 102532,26960.0,Jiegnajavrit,Innsjø,2019-09-22,Nikkel,Authorised,"0,05",0.05,UG_P_L,-0.1
 102532,26960.0,Jiegnajavrit,Innsjø,2019-09-22,Sink,Authorised,"0,2",0.2,UG_P_L,0.4
-102533,26959.0,Lamvatnet,Innsjø,2019-09-16,Bly,Authorised,"0,01",0.01,UG_P_L,0.05
-102533,26959.0,Lamvatnet,Innsjø,2019-09-16,Aluminium,Authorised,1,31.0,UG_P_L,9.0
-102533,26959.0,Lamvatnet,Innsjø,2019-09-16,Kobber,Authorised,"0,05",0.2,UG_P_L,0.3
-102533,26959.0,Lamvatnet,Innsjø,2019-09-16,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
-102533,26959.0,Lamvatnet,Innsjø,2019-09-16,Nikkel,Authorised,"0,05",0.16,UG_P_L,0.2
-102533,26959.0,Lamvatnet,Innsjø,2019-09-16,Sink,Authorised,"0,2",0.31,UG_P_L,0.5
+102533,26959.0,Lamvatnet,Innsjø,2019-09-22,Bly,Authorised,"0,01",0.01,UG_P_L,0.05
+102533,26959.0,Lamvatnet,Innsjø,2019-09-22,Aluminium,Authorised,1,31.0,UG_P_L,9.0
+102533,26959.0,Lamvatnet,Innsjø,2019-09-22,Kobber,Authorised,"0,05",0.2,UG_P_L,0.3
+102533,26959.0,Lamvatnet,Innsjø,2019-09-22,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
+102533,26959.0,Lamvatnet,Innsjø,2019-09-22,Nikkel,Authorised,"0,05",0.16,UG_P_L,0.2
+102533,26959.0,Lamvatnet,Innsjø,2019-09-22,Sink,Authorised,"0,2",0.31,UG_P_L,0.5
 102534,26961.0,Måkkejavri,Innsjø,2019-09-22,Bly,Authorised,"0,01",0.01,UG_P_L,0.04
 102534,26961.0,Måkkejavri,Innsjø,2019-09-22,Aluminium,Authorised,1,19.0,UG_P_L,2.0
 102534,26961.0,Måkkejavri,Innsjø,2019-09-22,Arsen,Authorised,"0,02",0.05,UG_P_L,-0.1
@@ -10197,35 +10197,35 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 102594,27007.0,Urdtjernet,Innsjø,2019-09-19,Total fosfor,Authorised,<1,2.0,UG_P_P_L,2.0
 102594,27007.0,Urdtjernet,Innsjø,2019-09-19,Total organisk karbon (TOC),Authorised,"<0,10",1.9,MG_C_L,1.7
 102594,27007.0,Urdtjernet,Innsjø,2019-09-19,Total nitrogen,Authorised,10,99.0,UG_P_L,93.0
-102425,27070.0,Låtrevatnet,Innsjø,2019-09-02,Bly,Authorised,"0,01",0.01,UG_P_L,-0.030000000000000002
-102425,27070.0,Låtrevatnet,Innsjø,2019-09-02,Aluminium,Authorised,1,8.2,UG_P_L,0.0
-102425,27070.0,Låtrevatnet,Innsjø,2019-09-02,Kobber,Authorised,"0,05",0.05,UG_P_L,-0.2
-102425,27070.0,Låtrevatnet,Innsjø,2019-09-02,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
-102425,27070.0,Låtrevatnet,Innsjø,2019-09-02,Nikkel,Authorised,"0,05",0.21,UG_P_L,0.4
-102425,27070.0,Låtrevatnet,Innsjø,2019-09-02,Sink,Authorised,"0,2",0.2,UG_P_L,-0.3
-102428,27070.0,Låtrevatnet,Innsjø,2019-09-20,Nitritt + nitrat,Authorised,<1,1.0,UG_N_L,1.0
-102428,27070.0,Låtrevatnet,Innsjø,2019-09-20,"Aluminium, reaktivt",Authorised,<5,5.0,UG_P_L,10.0
-102428,27070.0,Låtrevatnet,Innsjø,2019-09-20,"Aluminium, ikke labil",Authorised,<5,5.0,UG_P_L,10.0
-102428,27070.0,Låtrevatnet,Innsjø,2019-09-20,Total fosfor,Authorised,<1,2.0,UG_P_P_L,3.0
-102428,27070.0,Låtrevatnet,Innsjø,2019-09-20,Total organisk karbon (TOC),Authorised,"<0,10",1.4,MG_C_L,1.6
-102428,27070.0,Låtrevatnet,Innsjø,2019-09-20,Alkalitet,Authorised,"<0,030",0.131,MMOLE_P_L,0.15
-102428,27070.0,Låtrevatnet,Innsjø,2019-09-20,Konduktivitet,Authorised,"<0,1",6.7,MS_P_M,7.39
-102428,27070.0,Låtrevatnet,Innsjø,2019-09-20,Fluorid,Authorised,<2,27.0,UG_P_L,40.0
-102428,27070.0,Låtrevatnet,Innsjø,2019-09-20,Klorid,Authorised,"<0,005",10.8,MG_P_L,13.6
-102428,27070.0,Låtrevatnet,Innsjø,2019-09-20,Sulfat,Authorised,"<0,005",4.92,MG_P_L,6.3
-102428,27070.0,Låtrevatnet,Innsjø,2019-09-20,Natrium,Authorised,"<0,002",7.55,MG_P_L,7.99
-102428,27070.0,Låtrevatnet,Innsjø,2019-09-20,Magnesium,Authorised,"<0,002",1.15,MG_P_L,1.33
-102428,27070.0,Låtrevatnet,Innsjø,2019-09-20,Kalium,Authorised,"<0,003",1.12,MG_P_L,1.12
-102428,27070.0,Låtrevatnet,Innsjø,2019-09-20,Kalsium,Authorised,"<0,002",2.74,MG_P_L,2.9
-102428,27070.0,Låtrevatnet,Innsjø,2019-09-20,Total nitrogen,Canceled,10,55.0,UG_P_L,81.0
-102428,27070.0,Låtrevatnet,Innsjø,2019-09-20,pH,Authorised,"<3,50",6.92,PH,6.97
-102428,27070.0,Låtrevatnet,Innsjø,2019-09-20,Total nitrogen,Authorised,10,90.0,UG_P_L,81.0
-102458,26951.0,Langkeilvatn,Innsjø,2019-09-02,Bly,Authorised,"0,01",0.012,UG_P_L,0.08
-102458,26951.0,Langkeilvatn,Innsjø,2019-09-02,Aluminium,Authorised,1,20.0,UG_P_L,3.0
-102458,26951.0,Langkeilvatn,Innsjø,2019-09-02,Kobber,Authorised,"0,05",0.19,UG_P_L,0.4
-102458,26951.0,Langkeilvatn,Innsjø,2019-09-02,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
-102458,26951.0,Langkeilvatn,Innsjø,2019-09-02,Nikkel,Authorised,"0,05",0.13,UG_P_L,0.4
-102458,26951.0,Langkeilvatn,Innsjø,2019-09-02,Sink,Authorised,"0,2",0.22,UG_P_L,1.0
+102425,27070.0,Låtrevatnet,Innsjø,2019-09-22,Bly,Authorised,"0,01",0.01,UG_P_L,-0.030000000000000002
+102425,27070.0,Låtrevatnet,Innsjø,2019-09-22,Aluminium,Authorised,1,8.2,UG_P_L,0.0
+102425,27070.0,Låtrevatnet,Innsjø,2019-09-22,Kobber,Authorised,"0,05",0.05,UG_P_L,-0.2
+102425,27070.0,Låtrevatnet,Innsjø,2019-09-22,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
+102425,27070.0,Låtrevatnet,Innsjø,2019-09-22,Nikkel,Authorised,"0,05",0.21,UG_P_L,0.4
+102425,27070.0,Låtrevatnet,Innsjø,2019-09-22,Sink,Authorised,"0,2",0.2,UG_P_L,-0.3
+102428,27070.0,Låtrevatnet,Innsjø,2019-09-22,Nitritt + nitrat,Authorised,<1,1.0,UG_N_L,1.0
+102428,27070.0,Låtrevatnet,Innsjø,2019-09-22,"Aluminium, reaktivt",Authorised,<5,5.0,UG_P_L,10.0
+102428,27070.0,Låtrevatnet,Innsjø,2019-09-22,"Aluminium, ikke labil",Authorised,<5,5.0,UG_P_L,10.0
+102428,27070.0,Låtrevatnet,Innsjø,2019-09-22,Total fosfor,Authorised,<1,2.0,UG_P_P_L,3.0
+102428,27070.0,Låtrevatnet,Innsjø,2019-09-22,Total organisk karbon (TOC),Authorised,"<0,10",1.4,MG_C_L,1.6
+102428,27070.0,Låtrevatnet,Innsjø,2019-09-22,Alkalitet,Authorised,"<0,030",0.131,MMOLE_P_L,0.15
+102428,27070.0,Låtrevatnet,Innsjø,2019-09-22,Konduktivitet,Authorised,"<0,1",6.7,MS_P_M,7.39
+102428,27070.0,Låtrevatnet,Innsjø,2019-09-22,Fluorid,Authorised,<2,27.0,UG_P_L,40.0
+102428,27070.0,Låtrevatnet,Innsjø,2019-09-22,Klorid,Authorised,"<0,005",10.8,MG_P_L,13.6
+102428,27070.0,Låtrevatnet,Innsjø,2019-09-22,Sulfat,Authorised,"<0,005",4.92,MG_P_L,6.3
+102428,27070.0,Låtrevatnet,Innsjø,2019-09-22,Natrium,Authorised,"<0,002",7.55,MG_P_L,7.99
+102428,27070.0,Låtrevatnet,Innsjø,2019-09-22,Magnesium,Authorised,"<0,002",1.15,MG_P_L,1.33
+102428,27070.0,Låtrevatnet,Innsjø,2019-09-22,Kalium,Authorised,"<0,003",1.12,MG_P_L,1.12
+102428,27070.0,Låtrevatnet,Innsjø,2019-09-22,Kalsium,Authorised,"<0,002",2.74,MG_P_L,2.9
+102428,27070.0,Låtrevatnet,Innsjø,2019-09-22,Total nitrogen,Canceled,10,55.0,UG_P_L,81.0
+102428,27070.0,Låtrevatnet,Innsjø,2019-09-22,pH,Authorised,"<3,50",6.92,PH,6.97
+102428,27070.0,Låtrevatnet,Innsjø,2019-09-22,Total nitrogen,Authorised,10,90.0,UG_P_L,81.0
+102458,26951.0,Langkeilvatn,Innsjø,2019-09-22,Bly,Authorised,"0,01",0.012,UG_P_L,0.08
+102458,26951.0,Langkeilvatn,Innsjø,2019-09-22,Aluminium,Authorised,1,20.0,UG_P_L,3.0
+102458,26951.0,Langkeilvatn,Innsjø,2019-09-22,Kobber,Authorised,"0,05",0.19,UG_P_L,0.4
+102458,26951.0,Langkeilvatn,Innsjø,2019-09-22,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
+102458,26951.0,Langkeilvatn,Innsjø,2019-09-22,Nikkel,Authorised,"0,05",0.13,UG_P_L,0.4
+102458,26951.0,Langkeilvatn,Innsjø,2019-09-22,Sink,Authorised,"0,2",0.22,UG_P_L,1.0
 102459,26951.0,Langkeilvatn,Innsjø,2019-09-22,Konduktivitet,Authorised,"<0,1",7.11,MS_P_M,8.51
 102459,26951.0,Langkeilvatn,Innsjø,2019-09-22,Fluorid,Authorised,<2,7.0,UG_P_L,40.0
 102459,26951.0,Langkeilvatn,Innsjø,2019-09-22,Klorid,Authorised,"<0,005",12.0,MG_P_L,16.5
@@ -10324,12 +10324,12 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 102484,26953.0,HOH 243,Innsjø,2019-09-22,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
 102484,26953.0,HOH 243,Innsjø,2019-09-22,Nikkel,Authorised,"0,05",0.05,UG_P_L,-0.1
 102484,26953.0,HOH 243,Innsjø,2019-09-22,Sink,Authorised,"0,2",0.2,UG_P_L,-0.3
-102485,26952.0,HOH 610,Innsjø,2019-09-16,Bly,Authorised,"0,01",0.01,UG_P_L,0.15
-102485,26952.0,HOH 610,Innsjø,2019-09-16,Aluminium,Authorised,1,2.3,UG_P_L,0.0
-102485,26952.0,HOH 610,Innsjø,2019-09-16,Kobber,Authorised,"0,05",0.076,UG_P_L,0.5
-102485,26952.0,HOH 610,Innsjø,2019-09-16,Krom,Authorised,"0,05",0.054,UG_P_L,0.2
-102485,26952.0,HOH 610,Innsjø,2019-09-16,Nikkel,Authorised,"0,05",0.12,UG_P_L,0.3
-102485,26952.0,HOH 610,Innsjø,2019-09-16,Sink,Authorised,"0,2",0.2,UG_P_L,1.5
+102485,26952.0,HOH 610,Innsjø,2019-09-22,Bly,Authorised,"0,01",0.01,UG_P_L,0.15
+102485,26952.0,HOH 610,Innsjø,2019-09-22,Aluminium,Authorised,1,2.3,UG_P_L,0.0
+102485,26952.0,HOH 610,Innsjø,2019-09-22,Kobber,Authorised,"0,05",0.076,UG_P_L,0.5
+102485,26952.0,HOH 610,Innsjø,2019-09-22,Krom,Authorised,"0,05",0.054,UG_P_L,0.2
+102485,26952.0,HOH 610,Innsjø,2019-09-22,Nikkel,Authorised,"0,05",0.12,UG_P_L,0.3
+102485,26952.0,HOH 610,Innsjø,2019-09-22,Sink,Authorised,"0,2",0.2,UG_P_L,1.5
 102489,26985.0,HOH 210,Innsjø,2019-09-22,Bly,Authorised,"0,01",0.01,UG_P_L,0.19
 102489,26985.0,HOH 210,Innsjø,2019-09-22,Aluminium,Authorised,1,14.0,UG_P_L,0.0
 102489,26985.0,HOH 210,Innsjø,2019-09-22,Kobber,Authorised,"0,05",0.059,UG_P_L,-0.2
@@ -10578,26 +10578,26 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 102568,26962.0,HOH 582,Innsjø,2019-09-19,Krom,Authorised,"0,05",0.2,UG_P_L,0.2
 102568,26962.0,HOH 582,Innsjø,2019-09-19,Nikkel,Authorised,"0,05",0.16,UG_P_L,0.2
 102568,26962.0,HOH 582,Innsjø,2019-09-19,Sink,Authorised,"0,2",3.7,UG_P_L,1.0
-102569,26968.0,Luomujavrit,Innsjø,2019-09-19,Bly,Authorised,"0,01",0.01,UG_P_L,0.04
-102569,26968.0,Luomujavrit,Innsjø,2019-09-19,Aluminium,Authorised,1,13.0,UG_P_L,0.0
-102569,26968.0,Luomujavrit,Innsjø,2019-09-19,Arsen,Authorised,"0,02",0.35,UG_P_L,0.259
-102569,26968.0,Luomujavrit,Innsjø,2019-09-19,Kobber,Authorised,"0,05",0.05,UG_P_L,-0.2
-102569,26968.0,Luomujavrit,Innsjø,2019-09-19,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
-102569,26968.0,Luomujavrit,Innsjø,2019-09-19,Nikkel,Authorised,"0,05",0.05,UG_P_L,-0.1
-102569,26968.0,Luomujavrit,Innsjø,2019-09-19,Sink,Authorised,"0,2",0.2,UG_P_L,-0.3
+102569,26968.0,Luomujavrit,Innsjø,2019-09-22,Bly,Authorised,"0,01",0.01,UG_P_L,0.04
+102569,26968.0,Luomujavrit,Innsjø,2019-09-22,Aluminium,Authorised,1,13.0,UG_P_L,0.0
+102569,26968.0,Luomujavrit,Innsjø,2019-09-22,Arsen,Authorised,"0,02",0.35,UG_P_L,0.259
+102569,26968.0,Luomujavrit,Innsjø,2019-09-22,Kobber,Authorised,"0,05",0.05,UG_P_L,-0.2
+102569,26968.0,Luomujavrit,Innsjø,2019-09-22,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
+102569,26968.0,Luomujavrit,Innsjø,2019-09-22,Nikkel,Authorised,"0,05",0.05,UG_P_L,-0.1
+102569,26968.0,Luomujavrit,Innsjø,2019-09-22,Sink,Authorised,"0,2",0.2,UG_P_L,-0.3
 102570,26970.0,Læktujavri,Innsjø,2019-09-22,Bly,Authorised,"0,01",0.01,UG_P_L,-0.030000000000000002
 102570,26970.0,Læktujavri,Innsjø,2019-09-22,Aluminium,Authorised,1,7.2,UG_P_L,0.0
 102570,26970.0,Læktujavri,Innsjø,2019-09-22,Kobber,Authorised,"0,05",0.11,UG_P_L,-0.2
 102570,26970.0,Læktujavri,Innsjø,2019-09-22,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
 102570,26970.0,Læktujavri,Innsjø,2019-09-22,Nikkel,Authorised,"0,05",0.11,UG_P_L,0.3
 102570,26970.0,Læktujavri,Innsjø,2019-09-22,Sink,Authorised,"0,2",0.2,UG_P_L,-0.3
-102571,27074.0,Raktoailuobbalat,Innsjø,2019-09-19,Bly,Authorised,"0,01",0.01,UG_P_L,-0.030000000000000002
-102571,27074.0,Raktoailuobbalat,Innsjø,2019-09-19,Aluminium,Authorised,1,40.0,UG_P_L,0.0
-102571,27074.0,Raktoailuobbalat,Innsjø,2019-09-19,Arsen,Authorised,"0,02",0.062,UG_P_L,0.143
-102571,27074.0,Raktoailuobbalat,Innsjø,2019-09-19,Kobber,Authorised,"0,05",0.21,UG_P_L,-0.2
-102571,27074.0,Raktoailuobbalat,Innsjø,2019-09-19,Krom,Authorised,"0,05",0.084,UG_P_L,-0.1
-102571,27074.0,Raktoailuobbalat,Innsjø,2019-09-19,Nikkel,Authorised,"0,05",0.19,UG_P_L,0.1
-102571,27074.0,Raktoailuobbalat,Innsjø,2019-09-19,Sink,Authorised,"0,2",0.23,UG_P_L,-0.3
+102571,27074.0,Raktoailuobbalat,Innsjø,2019-09-22,Bly,Authorised,"0,01",0.01,UG_P_L,-0.030000000000000002
+102571,27074.0,Raktoailuobbalat,Innsjø,2019-09-22,Aluminium,Authorised,1,40.0,UG_P_L,0.0
+102571,27074.0,Raktoailuobbalat,Innsjø,2019-09-22,Arsen,Authorised,"0,02",0.062,UG_P_L,0.143
+102571,27074.0,Raktoailuobbalat,Innsjø,2019-09-22,Kobber,Authorised,"0,05",0.21,UG_P_L,-0.2
+102571,27074.0,Raktoailuobbalat,Innsjø,2019-09-22,Krom,Authorised,"0,05",0.084,UG_P_L,-0.1
+102571,27074.0,Raktoailuobbalat,Innsjø,2019-09-22,Nikkel,Authorised,"0,05",0.19,UG_P_L,0.1
+102571,27074.0,Raktoailuobbalat,Innsjø,2019-09-22,Sink,Authorised,"0,2",0.23,UG_P_L,-0.3
 102572,26964.0,Rambijærvi,Innsjø,2019-09-22,Bly,Authorised,"0,01",0.012,UG_P_L,0.05
 102572,26964.0,Rambijærvi,Innsjø,2019-09-22,Aluminium,Authorised,1,17.0,UG_P_L,0.0
 102572,26964.0,Rambijærvi,Innsjø,2019-09-22,Arsen,Authorised,"0,02",0.1,UG_P_L,0.249
@@ -10731,12 +10731,13 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 102618,26140.0,Daudmannsvatn,Innsjø,2019-09-28,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
 102618,26140.0,Daudmannsvatn,Innsjø,2019-09-28,Nikkel,Authorised,"0,05",0.11,UG_P_L,0.2
 102618,26140.0,Daudmannsvatn,Innsjø,2019-09-28,Sink,Authorised,"0,2",0.2,UG_P_L,0.9
-102619,26879.0,Storvatnet,Innsjø,2019-11-24,Bly,Authorised,"0,01",0.013,UG_P_L,0.030000000000000002
-102619,26879.0,Storvatnet,Innsjø,2019-11-24,Aluminium,Authorised,1,12.0,UG_P_L,16.0
-102619,26879.0,Storvatnet,Innsjø,2019-11-24,Kobber,Authorised,"0,05",0.3,UG_P_L,0.3
-102619,26879.0,Storvatnet,Innsjø,2019-11-24,Krom,Authorised,"0,05",0.1,UG_P_L,-0.1
-102619,26879.0,Storvatnet,Innsjø,2019-11-24,Nikkel,Authorised,"0,05",0.22,UG_P_L,0.3
-102619,26879.0,Storvatnet,Innsjø,2019-11-24,Sink,Authorised,"0,2",0.2,UG_P_L,3.2
+102619,27026.0,Storvatnet,Innsjø,2019-11-24,Bly,Authorised,"0,01",0.013,UG_P_L,0.060000000000000005
+102619,27026.0,Storvatnet,Innsjø,2019-11-24,Aluminium,Authorised,1,12.0,UG_P_L,5.0
+102619,27026.0,Storvatnet,Innsjø,2019-11-24,Arsen,Authorised,"0,02",0.02,UG_P_L,-0.1
+102619,27026.0,Storvatnet,Innsjø,2019-11-24,Kobber,Authorised,"0,05",0.3,UG_P_L,0.7
+102619,27026.0,Storvatnet,Innsjø,2019-11-24,Krom,Authorised,"0,05",0.1,UG_P_L,-0.1
+102619,27026.0,Storvatnet,Innsjø,2019-11-24,Nikkel,Authorised,"0,05",0.22,UG_P_L,0.3
+102619,27026.0,Storvatnet,Innsjø,2019-11-24,Sink,Authorised,"0,2",0.2,UG_P_L,-0.3
 102621,26899.0,Femvatnan,Innsjø,2019-09-24,Bly,Authorised,"0,01",0.01,UG_P_L,0.08
 102621,26899.0,Femvatnan,Innsjø,2019-09-24,Aluminium,Authorised,1,5.3,UG_P_L,0.0
 102621,26899.0,Femvatnan,Innsjø,2019-09-24,Arsen,Authorised,"0,02",0.02,UG_P_L,-0.1
@@ -10769,13 +10770,13 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 102630,26891.0,Skipsvatnet,Innsjø,2019-09-24,Krom,Authorised,"0,05",0.084,UG_P_L,0.2
 102630,26891.0,Skipsvatnet,Innsjø,2019-09-24,Nikkel,Authorised,"0,05",0.15,UG_P_L,0.5
 102630,26891.0,Skipsvatnet,Innsjø,2019-09-24,Sink,Authorised,"0,2",0.3,UG_P_L,0.9
-102631,26890.0,Juliusvatnet,Innsjø,2019-09-23,Bly,Authorised,"0,01",0.01,UG_P_L,-0.030000000000000002
-102631,26890.0,Juliusvatnet,Innsjø,2019-09-23,Aluminium,Authorised,1,8.1,UG_P_L,0.0
-102631,26890.0,Juliusvatnet,Innsjø,2019-09-23,Arsen,Authorised,"0,02",0.025,UG_P_L,-0.1
-102631,26890.0,Juliusvatnet,Innsjø,2019-09-23,Kobber,Authorised,"0,05",0.26,UG_P_L,0.3
-102631,26890.0,Juliusvatnet,Innsjø,2019-09-23,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
-102631,26890.0,Juliusvatnet,Innsjø,2019-09-23,Nikkel,Authorised,"0,05",0.082,UG_P_L,0.2
-102631,26890.0,Juliusvatnet,Innsjø,2019-09-23,Sink,Authorised,"0,2",0.2,UG_P_L,-0.3
+102631,26890.0,Juliusvatnet,Innsjø,2019-09-24,Bly,Authorised,"0,01",0.01,UG_P_L,-0.030000000000000002
+102631,26890.0,Juliusvatnet,Innsjø,2019-09-24,Aluminium,Authorised,1,8.1,UG_P_L,0.0
+102631,26890.0,Juliusvatnet,Innsjø,2019-09-24,Arsen,Authorised,"0,02",0.025,UG_P_L,-0.1
+102631,26890.0,Juliusvatnet,Innsjø,2019-09-24,Kobber,Authorised,"0,05",0.26,UG_P_L,0.3
+102631,26890.0,Juliusvatnet,Innsjø,2019-09-24,Krom,Authorised,"0,05",0.05,UG_P_L,-0.1
+102631,26890.0,Juliusvatnet,Innsjø,2019-09-24,Nikkel,Authorised,"0,05",0.082,UG_P_L,0.2
+102631,26890.0,Juliusvatnet,Innsjø,2019-09-24,Sink,Authorised,"0,2",0.2,UG_P_L,-0.3
 102633,26904.0,HOH 11,Innsjø,2019-09-23,Bly,Authorised,"0,01",0.14,UG_P_L,0.39
 102633,26904.0,HOH 11,Innsjø,2019-09-23,Aluminium,Authorised,1,41.0,UG_P_L,-4.0
 102633,26904.0,HOH 11,Innsjø,2019-09-23,Kobber,Authorised,"0,05",0.73,UG_P_L,1.1
@@ -11366,23 +11367,23 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 102446,26931.0,HOH 424,Innsjø,2019-09-20,Alkalitet,Rejected,"<0,030",0.096,MMOLE_P_L,0.094
 102446,26931.0,HOH 424,Innsjø,2019-09-20,Konduktivitet,Rejected,"<0,1",1.2,MS_P_M,1.02
 102446,26931.0,HOH 424,Innsjø,2019-09-20,Total nitrogen,Authorised,10,270.0,UG_P_L,245.0
-102447,26929.0,HOH 446,Innsjø,2019-09-20,Total organisk karbon (TOC),Authorised,"<0,10",5.0,MG_C_L,6.1
-102447,26929.0,HOH 446,Innsjø,2019-09-20,Konduktivitet,Authorised,"<0,1",0.91,MS_P_M,0.88
-102447,26929.0,HOH 446,Innsjø,2019-09-20,Fluorid,Authorised,<2,17.0,UG_P_L,40.0
-102447,26929.0,HOH 446,Innsjø,2019-09-20,Klorid,Authorised,"<0,005",0.28,MG_P_L,0.4
-102447,26929.0,HOH 446,Innsjø,2019-09-20,Sulfat,Authorised,"<0,005",0.34,MG_P_L,0.7
-102447,26929.0,HOH 446,Innsjø,2019-09-20,Natrium,Authorised,"<0,002",0.7,MG_P_L,0.59
-102447,26929.0,HOH 446,Innsjø,2019-09-20,Magnesium,Authorised,"<0,002",0.32,MG_P_L,0.28
-102447,26929.0,HOH 446,Innsjø,2019-09-20,Kalium,Authorised,"<0,003",0.21,MG_P_L,0.19
-102447,26929.0,HOH 446,Innsjø,2019-09-20,Kalsium,Authorised,"<0,002",0.89,MG_P_L,0.62
-102447,26929.0,HOH 446,Innsjø,2019-09-20,"Aluminium, reaktivt",Authorised,<5,14.0,UG_P_L,20.0
-102447,26929.0,HOH 446,Innsjø,2019-09-20,"Aluminium, ikke labil",Authorised,<5,5.0,UG_P_L,11.0
-102447,26929.0,HOH 446,Innsjø,2019-09-20,Alkalitet,Authorised,"<0,030",0.08,MMOLE_P_L,0.068
-102447,26929.0,HOH 446,Innsjø,2019-09-20,Total nitrogen,Canceled,10,300.0,UG_P_L,435.0
-102447,26929.0,HOH 446,Innsjø,2019-09-20,Nitritt + nitrat,Authorised,<1,2.0,UG_N_L,1.0
-102447,26929.0,HOH 446,Innsjø,2019-09-20,Total fosfor,Authorised,<1,15.0,UG_P_P_L,20.0
-102447,26929.0,HOH 446,Innsjø,2019-09-20,pH,Authorised,"<3,50",6.34,PH,6.3
-102447,26929.0,HOH 446,Innsjø,2019-09-20,Total nitrogen,Authorised,10,290.0,UG_P_L,435.0
+102447,26929.0,HOH 446,Innsjø,2019-09-16,Total organisk karbon (TOC),Authorised,"<0,10",5.0,MG_C_L,6.1
+102447,26929.0,HOH 446,Innsjø,2019-09-16,Konduktivitet,Authorised,"<0,1",0.91,MS_P_M,0.88
+102447,26929.0,HOH 446,Innsjø,2019-09-16,Fluorid,Authorised,<2,17.0,UG_P_L,40.0
+102447,26929.0,HOH 446,Innsjø,2019-09-16,Klorid,Authorised,"<0,005",0.28,MG_P_L,0.4
+102447,26929.0,HOH 446,Innsjø,2019-09-16,Sulfat,Authorised,"<0,005",0.34,MG_P_L,0.7
+102447,26929.0,HOH 446,Innsjø,2019-09-16,Natrium,Authorised,"<0,002",0.7,MG_P_L,0.59
+102447,26929.0,HOH 446,Innsjø,2019-09-16,Magnesium,Authorised,"<0,002",0.32,MG_P_L,0.28
+102447,26929.0,HOH 446,Innsjø,2019-09-16,Kalium,Authorised,"<0,003",0.21,MG_P_L,0.19
+102447,26929.0,HOH 446,Innsjø,2019-09-16,Kalsium,Authorised,"<0,002",0.89,MG_P_L,0.62
+102447,26929.0,HOH 446,Innsjø,2019-09-16,"Aluminium, reaktivt",Authorised,<5,14.0,UG_P_L,20.0
+102447,26929.0,HOH 446,Innsjø,2019-09-16,"Aluminium, ikke labil",Authorised,<5,5.0,UG_P_L,11.0
+102447,26929.0,HOH 446,Innsjø,2019-09-16,Alkalitet,Authorised,"<0,030",0.08,MMOLE_P_L,0.068
+102447,26929.0,HOH 446,Innsjø,2019-09-16,Total nitrogen,Canceled,10,300.0,UG_P_L,435.0
+102447,26929.0,HOH 446,Innsjø,2019-09-16,Nitritt + nitrat,Authorised,<1,2.0,UG_N_L,1.0
+102447,26929.0,HOH 446,Innsjø,2019-09-16,Total fosfor,Authorised,<1,15.0,UG_P_P_L,20.0
+102447,26929.0,HOH 446,Innsjø,2019-09-16,pH,Authorised,"<3,50",6.34,PH,6.3
+102447,26929.0,HOH 446,Innsjø,2019-09-16,Total nitrogen,Authorised,10,290.0,UG_P_L,435.0
 102448,26141.0,HOH 510,Innsjø,2019-09-20,Total organisk karbon (TOC),Authorised,"<0,10",3.9,MG_C_L,3.3
 102448,26141.0,HOH 510,Innsjø,2019-09-20,Konduktivitet,Authorised,"<0,1",0.38,MS_P_M,0.55
 102448,26141.0,HOH 510,Innsjø,2019-09-20,Fluorid,Authorised,<2,6.0,UG_P_L,40.0
@@ -23807,7 +23808,7 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 102364,26989.0,Holmevatnet,Innsjø,2019-09-22,Ca/Mg,Authorised,,4.244897959183674,None,3.8727272727272726
 102365,26991.0,Middagsvatna,Innsjø,2019-09-22,Ca/Mg,Authorised,,4.495798319327731,None,3.27
 102366,26988.0,Nerdalsvatnet,Innsjø,2019-09-22,Ca/Mg,Authorised,,6.0120481927710845,None,5.2967032967032965
-102428,27070.0,Låtrevatnet,Innsjø,2019-09-20,Ca/Mg,Authorised,,2.3826086956521744,None,2.180451127819549
+102428,27070.0,Låtrevatnet,Innsjø,2019-09-22,Ca/Mg,Authorised,,2.3826086956521744,None,2.180451127819549
 102429,26915.0,Amasjavri,Innsjø,2019-09-20,Ca/Mg,Authorised,,4.548736462093863,None,4.382470119521913
 102430,26927.0,Cuolbmajavri,Innsjø,2019-09-20,Ca/Mg,Authorised,,1.6762114537444934,None,1.7416666666666665
 102431,26925.0,Cuorvoncåkkavuoljavri,Innsjø,2019-09-20,Ca/Mg,Authorised,,3.472081218274112,None,3.5341614906832297
@@ -23826,7 +23827,7 @@ sample_id,station_id,station_name,station_type,sample_date,parameter,status,loq,
 102444,26917.0,HOH 407,Innsjø,2019-09-20,Ca/Mg,Authorised,,2.5151515151515147,None,2.692307692307692
 102445,26143.0,HOH 414,Innsjø,2019-09-20,Ca/Mg,Authorised,,2.611111111111111,None,1.5714285714285714
 102446,26931.0,HOH 424,Innsjø,2019-09-20,Ca/Mg,Authorised,,2.8235294117647056,None,2.375
-102447,26929.0,HOH 446,Innsjø,2019-09-20,Ca/Mg,Authorised,,2.78125,None,2.214285714285714
+102447,26929.0,HOH 446,Innsjø,2019-09-16,Ca/Mg,Authorised,,2.78125,None,2.214285714285714
 102448,26141.0,HOH 510,Innsjø,2019-09-20,Ca/Mg,Authorised,,2.4166666666666665,None,1.3
 102449,26918.0,HOH 537,Innsjø,2019-09-20,Ca/Mg,Authorised,,7.745098039215686,None,7.9227053140096615
 102450,26938.0,Jårgajavri,Innsjø,2019-09-20,Ca/Mg,Authorised,,2.3059360730593608,None,2.730769230769231
