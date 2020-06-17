@@ -26,7 +26,7 @@ Fargetall,Rejected,123
 Fluorid,Authorised,1000
 Fluorid,Canceled,1
 Fluorid,Rejected,77
-Fosfat,Authorised,997
+Fosfat,Authorised,1000
 Fosfat,Canceled,1
 Fosfat,Rejected,5
 Jern,Authorised,1000
@@ -54,8 +54,8 @@ Konduktivitet,Canceled,3
 Konduktivitet,Rejected,111
 Krom,Authorised,1000
 Krom,Canceled,1
-Kvikksølv,Authorised,999
-Kvikksølv,Canceled,2
+Kvikksølv,Authorised,1000
+Kvikksølv,Canceled,1
 Litium,Canceled,5
 Løst organisk karbon (DOC),Authorised,1000
 Løst organisk karbon (DOC),Canceled,3
